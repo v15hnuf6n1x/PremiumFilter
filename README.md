@@ -98,7 +98,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/PremiumFilter&branch=Tamilans-Working-Branch">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/v15hnuf6n1x/PremiumFilter&branch=main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
   </a
   </p>

@@ -5,7 +5,7 @@ FROM python:3.10
 WORKDIR /TamilanBotsz
 
 COPY requirements.txt ./
-
+RUN -m pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 copy . .

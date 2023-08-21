@@ -29,4 +29,5 @@ wheel
 ujson
 wget
 pytz
+aiohttp
 aiohttp==3.8.3
